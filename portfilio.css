@@ -1,0 +1,23 @@
+*{
+    background-color: #222;
+    color: white;
+    margin: 0px;
+    padding:0;
+    box-sizing: border-box;
+}
+h1{
+    color: #fff;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    filter: drop-shadow(2px 2px 10px rgb(255, 0, 204));
+    max-width: 7%;
+}
+.banner{
+    background-image:url(https://fraganzi.com/cdn/shop/articles/Esencia_de_la_Perfumeria_Arabe.webp?v=1707500925);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 80%;
+    height: 448px;
+}
